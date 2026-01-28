@@ -136,5 +136,3 @@ Typical results:
 
 ---
 
-## Repository Structure
-
